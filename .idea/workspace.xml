@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="361e70f9-c6a4-49b6-8f7d-d1543db5e747" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sum_of_cubes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/lab-assignment-2-CamiBacan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lab-assignment-2-CamiBacan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frecuency_finder.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,18 +12,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/lab_assignment_2_CamiBacan@ruby_sum_of_cubes_rb.rcov" NAME="ruby sum_of_cubes.rb Coverage Results" MODIFIED="1553216576860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lab-assignment-2-CamiBacan" />
+    <SUITE FILE_PATH="coverage/lab_assignment_2_CamiBacan@ruby_sum_of_cubes_rb.rcov" NAME="ruby sum_of_cubes.rb Coverage Results" MODIFIED="1553217232342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lab-assignment-2-CamiBacan" />
+    <SUITE FILE_PATH="coverage/lab_assignment_2_CamiBacan@ruby_frecuency_finder_rb.rcov" NAME="ruby frecuency_finder.rb Coverage Results" MODIFIED="1553217429557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="lab-assignment-2-CamiBacan" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="lab-assignment-2-CamiBacan" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sum_of_cubes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            <state relative-caret-position="30">
+              <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/frecuency_finder.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -46,6 +54,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/sum_of_cubes.rb" />
+        <option value="$PROJECT_DIR$/frecuency_finder.rb" />
       </list>
     </option>
   </component>
@@ -87,6 +96,8 @@
       <command value="bundle Install" />
       <command value="ruby sum_of_cubes" />
       <command value="ruby sum_of_cubes.rb" />
+      <command value="ruby frecuency_finder" />
+      <command value="ruby frecuency_finder.rb" />
     </option>
   </component>
   <component name="RunDashboard">
@@ -101,7 +112,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Ruby.ruby frecuency_finder.rb">
+    <configuration name="ruby frecuency_finder.rb" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="lab-assignment-2-CamiBacan" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/frecuency_finder.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ruby sum_of_cubes.rb" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="lab-assignment-2-CamiBacan" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
@@ -122,6 +151,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Ruby.ruby frecuency_finder.rb" />
         <item itemvalue="Ruby.ruby sum_of_cubes.rb" />
       </list>
     </recent_temporary>
@@ -138,12 +168,12 @@
       <option name="presentableId" value="Default" />
       <updated>1553206228502</updated>
       <workItem from="1553206236326" duration="144000" />
-      <workItem from="1553211623116" duration="3164000" />
+      <workItem from="1553211623116" duration="4017000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3308000" />
+    <option name="totallyTimeSpent" value="4161000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -206,8 +236,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sum_of_cubes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        <state relative-caret-position="30">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frecuency_finder.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
         </state>
       </provider>
     </entry>
