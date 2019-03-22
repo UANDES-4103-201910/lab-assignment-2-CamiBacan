@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="361e70f9-c6a4-49b6-8f7d-d1543db5e747" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/frecuency_finder.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microblog/bin/rails" beforeDir="false" afterPath="$PROJECT_DIR$/microblog/bin/rails" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microblog/bin/rake" beforeDir="false" afterPath="$PROJECT_DIR$/microblog/bin/rake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microblog/config/credentials.yml.enc" beforeDir="false" afterPath="$PROJECT_DIR$/microblog/config/credentials.yml.enc" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,19 +24,28 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sum_of_cubes.rb">
+        <entry file="file://$PROJECT_DIR$/toy_app/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            <state relative-caret-position="-499">
+              <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/frecuency_finder.rb">
+        <entry file="file://$PROJECT_DIR$/toy_app/app/controllers/application_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/toy_app/config/routes.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -48,19 +60,22 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/toy_app" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/sum_of_cubes.rb" />
         <option value="$PROJECT_DIR$/frecuency_finder.rb" />
+        <option value="$PROJECT_DIR$/toy_app/Gemfile" />
+        <option value="$PROJECT_DIR$/toy_app/app/controllers/application_controller.rb" />
+        <option value="$PROJECT_DIR$/toy_app/config/routes.rb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="291" />
-    <option name="y" value="45" />
+    <option name="x" value="169" />
+    <option name="y" value="67" />
     <option name="width" value="1400" />
     <option name="height" value="847" />
   </component>
@@ -76,6 +91,11 @@
             <path>
               <item name="lab-assignment-2-CamiBacan" type="b2602c69:ProjectViewProjectNode" />
               <item name="lab-assignment-2-CamiBacan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab-assignment-2-CamiBacan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab-assignment-2-CamiBacan" type="462c0819:PsiDirectoryNode" />
+              <item name="toy_app" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -168,12 +188,12 @@
       <option name="presentableId" value="Default" />
       <updated>1553206228502</updated>
       <workItem from="1553206236326" duration="144000" />
-      <workItem from="1553211623116" duration="4017000" />
+      <workItem from="1553211623116" duration="7068000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4161000" />
+    <option name="totallyTimeSpent" value="7212000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -185,15 +205,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="291" y="45" width="1400" height="847" extended-state="0" />
+    <frame x="169" y="67" width="1400" height="847" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49896482" visible="true" weight="0.2533235" />
-      <window_info id="Structure" order="1" sideWeight="0.5010352" side_tool="true" visible="true" weight="0.2533235" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7412008" visible="true" weight="0.2533235" />
+      <window_info id="Structure" order="1" sideWeight="0.25879917" side_tool="true" visible="true" weight="0.2533235" />
       <window_info id="Favorites" order="2" sideWeight="0.5010352" side_tool="true" weight="0.2533235" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4970458" visible="true" weight="0.32729805" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4970458" visible="true" weight="0.32729805" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -237,14 +257,41 @@
     <entry file="file://$PROJECT_DIR$/sum_of_cubes.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/frecuency_finder.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="43" lean-forward="true" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toy_app/db/seeds.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toy_app/Rakefile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toy_app/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toy_app/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-499">
+          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toy_app/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
